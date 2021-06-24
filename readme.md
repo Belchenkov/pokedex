@@ -2,8 +2,8 @@
 
 > Build a pokemon cards on vanilla js
 
-### [Demo]()
-[![IMAGE ALT TEXT HERE](./uploads/screen.png)]()
+### [Demo](https://pokedex-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://radikal.ru/video/GQ5HEFc1Jgz)
 
 ### Get started
 
